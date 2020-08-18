@@ -1,0 +1,24 @@
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.deps.json
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.json
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.dll
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\bin\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.AssemblyInfo.cs
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.input.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.TagHelpers.output.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.RazorCoreGenerate.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\Razor\Pages\Error.cshtml.g.cs
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.RazorTargetAssemblyInfo.cs
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.Views.pdb
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.dll
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\ASP.NET Core 2.2 with Angular 7.pdb
+C:\Users\admin\source\repos\CoreAngular\CoreAngular\obj\Debug\netcoreapp2.2\CoreAngular.csproj.CopyComplete
